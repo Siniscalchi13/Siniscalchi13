@@ -37,12 +37,15 @@ Architectures designed to survive the real world.
 
 ## 🔧 Active Projects
 
-| Repo | Role | Context |
-|------|------|--------|
-| **[SmartHaus-Manifesto](https://github.com/SmartHausGroup/SmartHaus-Manifesto)** | The Philosophy | 📖 Public |
-| **local-help** | Local AI Assistance | 🛠️ Personal |
-| **SIGMA** | System Integration | ⚙️ Personal |
-| **C2** | Command & Control | 🎮 Personal |
+I am actively building these tools to extend the SmartHaus ecosystem:
+
+### 🛠️ Personal Engineering
+- **[local-help](https://github.com/Siniscalchi13/local-help)**: A local-first AI assistant for developer productivity.
+- **[SIGMA](https://github.com/Siniscalchi13/SIGMA)**: System Integration & Governance Matrix.
+- **[C2](https://github.com/Siniscalchi13/C2)**: Command & Control interface for distributed agents.
+
+### 📖 Core Philosophy
+- **[SmartHaus-Manifesto](https://github.com/SmartHausGroup/SmartHaus-Manifesto)**: The public whitepaper.
 
 ---
 
