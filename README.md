@@ -1,4 +1,4 @@
-# Philip Siniscalchi — SmartHaus
+# Philip Siniscalchi — SMARTHAUS
 
 **Math-first AI systems architect, enterprise operator, and founder.**
 
@@ -12,7 +12,7 @@ I don't believe in "vibe coding." I believe in systems governed by formal models
 
 ---
 
-## 🏗️ Founder @ [SmartHausGroup](https://github.com/SmartHausGroup)
+## 🏗️ Founder @ [The SmartHaus Group](https://github.com/SmartHausGroup)
 
 I replace probabilistic guesswork with **deterministic, field-native architectures**.
 
