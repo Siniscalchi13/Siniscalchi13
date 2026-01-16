@@ -33,14 +33,14 @@ Architectures designed to survive the real world.
 
 ---
 
-## 🔧 Core Architectures
+## 🔧 Active Projects
 
-| Repo | Role | Status |
+| Repo | Role | Context |
 |------|------|--------|
-| **[SmartHaus-Manifesto](https://github.com/SmartHausGroup/SmartHaus-Manifesto)** | The Philosophy & Architecture | 📖 Public |
-| **[ResonantFieldStorage](https://github.com/SmartHausGroup/ResonantFieldStorage)** | Field-native memory substrate | ⭐ Core |
-| **[VerbumFieldEngine](https://github.com/SmartHausGroup/VerbumFieldEngine)** | Inference & intent engine | ⚡ Active |
-| **[MGE](https://github.com/SmartHausGroup/MGE)** | Deterministic governance sidecar | 🛡️ Compliance |
+| **[SmartHaus-Manifesto](https://github.com/SmartHausGroup/SmartHaus-Manifesto)** | The Philosophy | 📖 Public |
+| **local-help** | Local AI Assistance | 🛠️ Personal |
+| **SIGMA** | System Integration | ⚙️ Personal |
+| **C2** | Command & Control | 🎮 Personal |
 
 ---
 
