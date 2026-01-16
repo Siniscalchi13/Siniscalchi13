@@ -12,7 +12,7 @@ I don't believe in "vibe coding." I believe in systems governed by formal models
 
 ---
 
-## 🏗️ What I Build
+## 🏗️ Founder @ [SmartHausGroup](https://github.com/SmartHausGroup)
 
 I replace probabilistic guesswork with **deterministic, field-native architectures**.
 
