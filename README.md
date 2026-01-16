@@ -23,12 +23,18 @@ We treat software engineering like physics: **derive the laws first, then build 
 - **Result:** Code is only written *after* it has been mathematically proven.
 - **Enforcer:** [MGE](https://github.com/SmartHausGroup/MGE) (Mathematical Governance Engine).
 
-### 2. Field-Based Memory
-Memory as a coherent computational substrate, not a vector index.
-- **Resonant Field Storage (RFS):** Unified storage that preserves semantic topology.
-- **Verbum Field Engine (VFE):** Inference as field dynamics.
+### 2. The TAI Archetype (Personal Assistant Layer)
+TAI (Tutelarius Auxilium Intellectus) is the sovereign orchestrator layer.
+It sits between the user and the AI ecosystem, managing intent and memory.
+- **Core Services:** MAIA (Intent), CAIO (Control), RFS (Memory), NME (Narrative), VFE (Inference), VEE (Truth).
 
-### 3. Enterprise Reality
+### 3. The AIVA Archetype (Living System)
+AIVA (Artificialis Intelligentia Vivens Anima) is the triadic architecture for autonomous intelligence.
+- **AiOS:** The Biological Layer (Cognition & Homeostasis).
+- **LQL:** The Chemical Layer (Language & Reaction).
+- **LEF:** The Physical Layer (Execution & Energy).
+
+### 4. Enterprise Reality
 Architectures designed to survive the real world.
 - **Background:** 20 years in enterprise sales & leadership (AWS L7 Principal, NTT Global).
 - **Focus:** Explainability, compliance, and provable stability.
@@ -40,9 +46,9 @@ Architectures designed to survive the real world.
 I am actively building these tools to extend the SmartHaus ecosystem:
 
 ### 🛠️ Personal Engineering
-- **[local-help](https://github.com/Siniscalchi13/local-help)**: A local-first AI assistant for developer productivity.
-- **[SIGMA](https://github.com/Siniscalchi13/SIGMA)**: System Integration & Governance Matrix.
-- **[C2](https://github.com/Siniscalchi13/C2)**: Command & Control interface for distributed agents.
+- **[local-help](https://github.com/Siniscalchi13/local-help)**: Neighbor-to-neighbor help platform using SOA and Firebase.
+- **[SIGMA](https://github.com/Siniscalchi13/SIGMA)**: Algorithmic trading platform with 170+ signals and AI analysis.
+- **[C2](https://github.com/Siniscalchi13/C2)**: Private onion-routing cloud infrastructure for secure services.
 
 ### 📖 Core Philosophy
 - **[SmartHaus-Manifesto](https://github.com/SmartHausGroup/SmartHaus-Manifesto)**: The public whitepaper.
