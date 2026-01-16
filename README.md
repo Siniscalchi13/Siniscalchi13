@@ -7,7 +7,7 @@
 ## 🚀 The Manifesto
 I don't believe in "vibe coding." I believe in systems governed by formal models of control, memory, and intent.
 
-👉 **[READ THE SMARTHAUS MANIFESTO](https://github.com/Siniscalchi13/SmartHaus-Manifesto)**  
+👉 **[READ THE SMARTHAUS MANIFESTO](https://github.com/SmartHausGroup/SmartHaus-Manifesto)**  
 *(A Math-First Approach to AI Systems Innovation)*
 
 ---
@@ -37,7 +37,7 @@ Architectures designed to survive the real world.
 
 | Repo | Role | Status |
 |------|------|--------|
-| **[SmartHaus-Manifesto](https://github.com/Siniscalchi13/SmartHaus-Manifesto)** | The Philosophy & Architecture | 📖 Public |
+| **[SmartHaus-Manifesto](https://github.com/SmartHausGroup/SmartHaus-Manifesto)** | The Philosophy & Architecture | 📖 Public |
 | **[ResonantFieldStorage](https://github.com/SmartHausGroup/ResonantFieldStorage)** | Field-native memory substrate | ⭐ Core |
 | **[VerbumFieldEngine](https://github.com/SmartHausGroup/VerbumFieldEngine)** | Inference & intent engine | ⚡ Active |
 | **[MGE](https://github.com/SmartHausGroup/MGE)** | Deterministic governance sidecar | 🛡️ Compliance |
