@@ -16,10 +16,12 @@ I don't believe in "vibe coding." I believe in systems governed by formal models
 
 I replace probabilistic guesswork with **deterministic, field-native architectures**.
 
-### 1. Math-First Engineering
-Systems derived from calculus and topology, not prompt engineering.
-- **Method:** Math → Notebook → Proof → Code.
-- **Tooling:** [Mathematical Autopsy](https://github.com/SmartHausGroup/MathematicalAutopsy)
+### 1. Mathematical Autopsy (MA)
+This is not just "tooling"—it is the **methodology** that makes SmartHaus possible.
+We treat software engineering like physics: **derive the laws first, then build the universe.**
+- **Process:** Intent → Math → Lemmas → Verification → CI Enforcement.
+- **Result:** Code is only written *after* it has been mathematically proven.
+- **Enforcer:** [MGE](https://github.com/SmartHausGroup/MGE) (Mathematical Governance Engine).
 
 ### 2. Field-Based Memory
 Memory as a coherent computational substrate, not a vector index.
