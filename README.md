@@ -4,19 +4,17 @@
 
 > "I build mathematically sound intelligence systems because nothing else is acceptable."
 
-## 🚀 Start Here (2 Minutes)
+## 🚀 The Manifesto
+I don't believe in "vibe coding." I believe in systems governed by formal models of control, memory, and intent.
 
-- 🔥 **SmartHaus Overview:** [SmartHausGroup](https://github.com/SmartHausGroup)
-- 🧠 **Resonant Field Storage (RFS):** [RFS Repo](https://github.com/SmartHausGroup/ResonantFieldStorage)
-- ⚙️ **Verbum Field Engine (VFE):** [VFE Repo](https://github.com/SmartHausGroup/VerbumFieldEngine)
-- 🛡️ **Mathematical Governance Engine (MGE):** [MGE Repo](https://github.com/SmartHausGroup/MGE)
-- 📄 **Website:** [philipsiniscalchi.com](https://philipsiniscalchi.com)
+👉 **[READ THE SMARTHAUS MANIFESTO](https://github.com/Siniscalchi13/SmartHaus-Manifesto)**  
+*(A Math-First Approach to AI Systems Innovation)*
 
 ---
 
 ## 🏗️ What I Build
 
-I replace probabilistic "vibe coding" with **deterministic, field-native architectures**.
+I replace probabilistic guesswork with **deterministic, field-native architectures**.
 
 ### 1. Math-First Engineering
 Systems derived from calculus and topology, not prompt engineering.
@@ -35,14 +33,14 @@ Architectures designed to survive the real world.
 
 ---
 
-## 🔧 Repos Worth Your Time
+## 🔧 Core Architectures
 
 | Repo | Role | Status |
 |------|------|--------|
+| **[SmartHaus-Manifesto](https://github.com/Siniscalchi13/SmartHaus-Manifesto)** | The Philosophy & Architecture | 📖 Public |
 | **[ResonantFieldStorage](https://github.com/SmartHausGroup/ResonantFieldStorage)** | Field-native memory substrate | ⭐ Core |
 | **[VerbumFieldEngine](https://github.com/SmartHausGroup/VerbumFieldEngine)** | Inference & intent engine | ⚡ Active |
 | **[MGE](https://github.com/SmartHausGroup/MGE)** | Deterministic governance sidecar | 🛡️ Compliance |
-| **[TAI](https://github.com/SmartHausGroup/TAI)** | Cognitive OS & Orchestrator | 🧠 Brain |
 
 ---
 
